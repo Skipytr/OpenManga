@@ -2,12 +2,9 @@
 <resources>
 
     <string-array name="provider_summs">
-        <item>Russian</item>
-        <item>Russian</item>
-        <item>Russian</item>
-        <item>Multilanguage</item>
-        <item>English</item>
-        <item>English</item>
         <item>Turkish</item>
+        <item>English</item>
+        <item>English</item>
+        
     </string-array>
 </resources>
